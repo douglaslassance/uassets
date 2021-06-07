@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UAssets",
+	"Description": "Collection of useful assets.",
+	"Category": "Other",
+	"CreatedBy": "Douglas Lassance",
+	"CreatedByURL": "https://github.com/douglaslassance/uassets",
+	"DocsURL": "https://github.com/douglaslassance/uassets",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/douglaslassance/uassets",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
